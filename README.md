@@ -307,20 +307,8 @@ The project includes:
 ADEase-Time-Series-Forecasting/
 │
 ├── ADEase_Time_Series_Forecasting.ipynb
-├── ADEase_Time_Series_Forecasting.pdf
 ├── datasets/
-│   ├── train.csv
-│   ├── test.csv
-│   └── exogenous_features.csv
-│
-├── images/
-│   ├── trend_analysis.png
-│   ├── seasonal_decomposition.png
-│   ├── arima_forecast.png
-│   ├── sarima_forecast.png
-│   └── prophet_forecast.png
-│
-├── requirements.txt
+│   ├── data.csv
 └── README.md
 ```
 
